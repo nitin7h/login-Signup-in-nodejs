@@ -1,0 +1,5 @@
+mongosh
+show dbs
+use blogify
+show collections
+db.users.find({})
